@@ -12,8 +12,9 @@ Setup/Installation Requirements.
 Clone this Repository onto your device then open the file and it will lead you to the Web Aplication.
 
 TECHNOLOGIES USED.
-Visual studio code was used in coding the HTML,css
-The Text editor was used in writing the ReadMe.
+1.Visual studio code was used in coding the HTML,css
+2.The Text editor was used in writing the ReadMe.
+
 CONTACTS: 
          Phone Number: 0722279569 .
          Email : billomambia82@gmail.com.
