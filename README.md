@@ -13,7 +13,7 @@ Setup/Installation Requirements.
 Clone this Repository onto your device then open the file and it will lead you to the Web Aplication.
 
 TECHNOLOGIES USED.
-1.Visual studio code was used in coding the HTML,css
+1.Visual studio code was used in coding the HTML,css.
 2.The Text editor was used in writing the ReadMe.
 
 CONTACTS: 
