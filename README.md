@@ -16,7 +16,8 @@ Visual studio code was used in coding the HTML,css
 The Text editor was used in writing the ReadMe.
 CONTACTS: 
          Phone Number: 0722279569 .
-         Email : billomambia82@gmail.com
+         Email : billomambia82@gmail.com.
+         
 
 LICENSE:
         Copyright (C) 2020  Bill omambia
