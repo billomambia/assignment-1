@@ -15,11 +15,12 @@ TECHNOLOGIES USED.
 Visual studio code was used in coding the HTML,css
 The Text editor was used in writing the ReadMe.
 CONTACTS: 
-         Phone Number: 0722279569 
+         Phone Number: 0722279569 .
          Email : billomambia82@gmail.com
 
 LICENSE:
         Copyright (C) 2020  Bill omambia
+live site (https://github.com/billomambia/assignment-1.git)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
