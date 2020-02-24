@@ -1,0 +1,16 @@
+body{ color: red;
+}
+.line-content{
+    padding: 5px;
+}
+td {
+    display:table-row
+    vertical-align:baseline;
+}
+table{
+ border-collapse: seperate;
+ font-variant: normal;
+ font-size: medium;
+ font-weight: initial;
+ color: khaki;
+}
