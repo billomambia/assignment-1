@@ -11,11 +11,12 @@ This is a web application in which contains all the work I have done during my s
 Setup/Installation Requirements.
 Clone this Repository onto your device then open the file and it will lead you to the Web Aplication.
 
-TECHNOLOGIES USED
+TECHNOLOGIES USED.
 Visual studio code was used in coding the HTML,css
 The Text editor was used in writing the ReadMe.
-CONTACTS
-Phone Number: 0722279569 Email : billomambia82@gmail.com
+CONTACTS: 
+         Phone Number: 0722279569 
+         Email : billomambia82@gmail.com
 
 LICENSE
 Copyright (C) 2020  Bill omambia
