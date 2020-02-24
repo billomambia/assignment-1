@@ -18,10 +18,10 @@ CONTACTS:
          Phone Number: 0722279569 
          Email : billomambia82@gmail.com
 
-LICENSE
-Copyright (C) 2020  Bill omambia
+LICENSE:
+        Copyright (C) 2020  Bill omambia
 
-This program is free software: you can redistribute it and/or modi
+This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
